@@ -8,28 +8,28 @@ Table of Contents
 
 2.Classification task
 
- A.Load data
+  A.Load data
  
- B.Data visualization
+  B.Data visualization
  
- C.build model
+  C.build model
  
- D.Data generation
+  D.Data generation
  
- E.Compile model
+  E.Compile model
  
- F.Train model
+  F.Train model
  
- G.Predict class
+  G.Predict class
 	
 3.Detection task
 
- A.Create dataset folders
+  A.Create dataset folders
  
- B.extract informations from xml
+  B.extract informations from xml
  
- C.Draw border box
+  C.Draw border box
  
- D.Create yaml file
+  D.Create yaml file
  
- E.Train model
+  E.Train model
