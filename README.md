@@ -7,17 +7,29 @@ Table of Contents
 1.Import libraries
 
 2.Classification task
+
  A.Load data
+ 
  B.Data visualization
+ 
  C.build model
+ 
  D.Data generation
+ 
  E.Compile model
+ 
  F.Train model
+ 
  G.Predict class
 	
 3.Detection task
+
  A.Create dataset folders
+ 
  B.extract informations from xml
+ 
  C.Draw border box
+ 
  D.Create yaml file
+ 
  E.Train model
