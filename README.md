@@ -5,6 +5,7 @@ The importance of the project: The importance of this project lies in working on
 
 Table of Contents
 1.Import libraries
+
 2.Classification task
  A.Load data
  B.Data visualization
@@ -13,6 +14,7 @@ Table of Contents
  E.Compile model
  F.Train model
  G.Predict class
+	
 3.Detection task
  A.Create dataset folders
  B.extract informations from xml
