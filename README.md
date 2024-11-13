@@ -1,6 +1,6 @@
 # Research on Fire Classification and Detection Models Based on Deep Learning
 
-Danfeng Hong, Bing Zhang, Hao Li, Yuxuan Li, Jing Yao, Chenyu Li, Martin Werner, Jocelyn Chanussot, Alexander Zipf, Xiao Xiang Zhu
+Shenzhi Li, Biao Zhang, Peng Wang
 
 ___________
 
