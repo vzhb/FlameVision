@@ -33,11 +33,9 @@ System-specific notes
 ---------------------
 Please refer to the file `requirements.txt` for the running environment of this code.
 
-:exclamation: The pretrained model and datasets can be downloaded from the following links:
+:exclamation: The datasets can be downloaded from the following links:
 
-Baiduyun: https://pan.baidu.com/s/1WfQ-gWTm2TNXzW-1XEijOg?pwd=ag5k   (access code: ag5k)
-
-Google drive: https://drive.google.com/drive/folders/1S0nfxOwcyv3rMb7ibNA9tXW981vJhiin?usp=drive_link
+Baiduyun: https://pan.baidu.com/s/1zwE-Y_AJYaLOMPkIzgTTug?pwd=qwer 
 
 Licensing
 ---------
