@@ -4,7 +4,7 @@ Shenzhi Li, Biao Zhang, Peng Wang
 
 ___________
 
-The code in this toolbox implements the ["Cross-City Matters: A Multimodal Remote Sensing Benchmark Dataset for Cross-City Semantic Segmentation using High-Resolution Domain Adaptation Networks"](https://www.sciencedirect.com/science/article/abs/pii/S0034425723004078). Fires pose severe risks, and fires in forests threaten human and animal life and negatively affect their quality of life, in addition to their impact on infrastructure, with limited options for fighting fires due to the intense heat and volatile winds. In this fragile environment, responsible behavior and fire prevention is essential to mitigate these risks.The importance of this project lies in working on continuous monitoring to discover and identify fires, in addition to early detection and reducing the response speed.
+The code in this toolbox implements the ["Research on Fire Classification and Detection Models Based on Deep Learning"](https://www.sciencedirect.com/science/article/abs/pii/S0034425723004078). Fires pose severe risks, and fires in forests threaten human and animal life and negatively affect their quality of life, in addition to their impact on infrastructure, with limited options for fighting fires due to the intense heat and volatile winds. In this fragile environment, responsible behavior and fire prevention is essential to mitigate these risks.The importance of this project lies in working on continuous monitoring to discover and identify fires, in addition to early detection and reducing the response speed.
 
 ![alt text](./AB1.png)
 ![alt text](./BW1.png)
