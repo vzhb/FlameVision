@@ -18,15 +18,15 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-Danfeng Hong, Bing Zhang, Hao Li, Yuxuan Li, Jing Yao, Chenyu Li, Martin Werner, Jocelyn Chanussot, Alexander Zipf, Xiao Xiang Zhu. Cross-City Matters: A Multimodal Remote Sensing Benchmark Dataset for Cross-City Semantic Segmentation using High-Resolution Domain Adaptation Networks. Remote Sensing of Environment, 2023, 299: 113856. 
+Shenzhi Li, Biao Zhang, Peng Wang. Research on Fire Classification and Detection Models Based on Deep Learning. International Conferenge on Big Data and Data Mining, 2024, xx: yyyy. 
 
-     @article{hong2023cross,
-     title={Cross-City Matters: A Multimodal Remote Sensing Benchmark Dataset for Cross-City Semantic Segmentation using High-Resolution Domain Adaptation Networks},
-     author={Hong, Danfeng and Zhang, Bing and Li, Hao and Li, Yuxuan and Yao, Jing and Li, Chenyu and Werner, Martin and Chanussote, Jocelyn and Zipf, Alexander and Zhu, Xiao Xiang},
-     journal={Remote Sensing of Environment},
-     volume={299},
-     pages={113856},
-     year={2023}
+     @article{li2024cross,
+     title={Research on Fire Classification and Detection Models Based on Deep Learning},
+     author={Shenzhi Li, Biao Zhang, Peng Wang},
+     journal= International Conferenge on Big Data and Data Mining},
+     volume={xxx},
+     pages={yyyy},
+     year={2024}
      }
 
 System-specific notes
