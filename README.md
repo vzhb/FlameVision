@@ -1,3 +1,5 @@
+FICNet(FireScene Identification and Classification Network)
+
 Introdction:
 Fires pose severe risks, and fires in forests threaten human and animal life and negatively affect their quality of life, in addition to their impact on infrastructure, with limited options for fighting fires due to the intense heat and volatile winds. In this fragile environment, responsible behavior and fire prevention is essential to mitigate these risks.
 
