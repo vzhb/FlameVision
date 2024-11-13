@@ -5,6 +5,8 @@ Fires pose severe risks, and fires in forests threaten human and animal life and
 
 The importance of the project: The importance of this project lies in working on continuous monitoring to discover and identify fires, in addition to early detection and reducing the response speed.
 
+dataset：https://pan.baidu.com/s/1lsfN34PvgGYEBTiX_vt1iQ?pwd=qwer
+
 Table of Contents
 
 1.Import libraries
