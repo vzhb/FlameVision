@@ -1,4 +1,4 @@
-# Cross-City Matters: A Multimodal Remote Sensing Benchmark Dataset for Cross-City Semantic Segmentation using High-Resolution Domain Adaptation Networks
+# Research on Fire Classification and Detection Models Based on Deep Learning
 
 Danfeng Hong, Bing Zhang, Hao Li, Yuxuan Li, Jing Yao, Chenyu Li, Martin Werner, Jocelyn Chanussot, Alexander Zipf, Xiao Xiang Zhu
 
@@ -42,8 +42,6 @@ Google drive: https://drive.google.com/drive/folders/1S0nfxOwcyv3rMb7ibNA9tXW981
 Licensing
 ---------
 
-Copyright (C) 2023 Danfeng Hong
-
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
@@ -53,5 +51,5 @@ You should have received a copy of the GNU General Public License along with thi
 Contact Information:
 --------------------
 
-Danfeng Hong: hongdanfeng1989@gmail.com<br>
-Danfeng Hong is with the Aerospace Information Research Institute, Chinese Academy of Sciences, 100094 Beijing, China.
+Shenzhi Li: d24092110646@cityu.edu.mo<br>
+Shenzhi Li is with the City University of Macau, Macau, China.
