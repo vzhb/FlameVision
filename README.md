@@ -6,11 +6,11 @@ ___________
 
 The code in this toolbox implements the ["Research on Fire Classification and Detection Models Based on Deep Learning"](https://www.sciencedirect.com/science/article/abs/pii/S0034425723004078). Fires pose severe risks, and fires in forests threaten human and animal life and negatively affect their quality of life, in addition to their impact on infrastructure, with limited options for fighting fires due to the intense heat and volatile winds. In this fragile environment, responsible behavior and fire prevention is essential to mitigate these risks.The importance of this project lies in working on continuous monitoring to discover and identify fires, in addition to early detection and reducing the response speed.
 
-![alt text](./AB1.png)
-![alt text](./BW1.png)
+![alt text](./FICNetNoFire.png)
+![alt text](./YOLOModelFire.png)
 
 
-![alt text](./Workflow_RSE.jpg)
+![alt text](./FICNet_Model.jpg)
 A high-resolution domain adaptation network utilizing adversarial learning (HighDAN) is devised to tackle this task.
 
 Citation
