@@ -11,6 +11,7 @@ The code in this toolbox implements the ["Research on Fire Classification and De
 
 
 ![alt text](./FICNet_Model.jpg)
+
 A high-resolution domain adaptation network utilizing adversarial learning (HighDAN) is devised to tackle this task.
 
 Citation
