@@ -4,7 +4,7 @@ Shenzhi Li, Biao Zhang, Shuanglin Zhao*, Peng Wang
 
 ___________
 
-The code in this toolbox implements the ["Research on Fire Classification and Detection Models Based on Deep Learning"](https://www.sciencedirect.com/science/article/abs/pii/S0034425723004078). Fires pose severe risks, and fires in forests threaten human and animal life and negatively affect their quality of life, in addition to their impact on infrastructure, with limited options for fighting fires due to the intense heat and volatile winds. In this fragile environment, responsible behavior and fire prevention is essential to mitigate these risks.The importance of this project lies in working on continuous monitoring to discover and identify fires, in addition to early detection and reducing the response speed.
+Abstract—This paper aims to address the early detection and identification of fires, proposing a deep learning-based fire classification and detection model named FireScene Identification and Classification Network, FICNet for short. The model analyzes the publicly available aerial imagery dataset from FlameVision to rapidly classify and detect wildfires. This paper provides a detailed introduction to the dataset, model construction, experimental procedures, and results, while also discussing the practical application value and future research directions of the model. The FlameVision dataset and the FICNet model have been publicly released at https://github.com/vzhb/FICNet .
 
 ![alt text](./FICNetNoFire.png)
 
@@ -29,7 +29,7 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-Shenzhi Li, Biao Zhang, Peng Wang. Research on Fire Classification and Detection Models Based on Deep Learning. International Conferenge on Big Data and Data Mining, 2024, xx: yyyy. 
+Shenzhi Li, Biao Zhang, Shuanglin Zhao, Peng Wang. Research on Fire Classification and Detection Models Based on Deep Learning. International Conferenge on Big Data and Data Mining, 2024, xx: yyyy. 
 
      @article{li2024cross,
      title={Research on Fire Classification and Detection Models Based on Deep Learning},
@@ -48,14 +48,10 @@ The FlameVision dataset can be downloaded from the following links:
 
 Baiduyun: https://pan.baidu.com/s/1zwE-Y_AJYaLOMPkIzgTTug?pwd=qwer 
 
-Licensing
+Acknowledgment
 ---------
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.
+This work was funded by Open Fund of Hunan Geological Disaster Monitoring Early Warning and Emergency Rescue Engineering Technology Research Center under (Grant No. hndzgczx202407); Hebei Key Laboratory of Resource and Environmental Disaster Mechanism and Risk Monitoring under (Grant No. FZ248201).
 
 Contact Information:
 --------------------
