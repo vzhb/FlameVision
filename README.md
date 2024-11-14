@@ -1,18 +1,28 @@
 # Research on Fire Classification and Detection Models Based on Deep Learning
 
-Shenzhi Li, Biao Zhang, Peng Wang
+Shenzhi Li, Biao Zhang, Shuanglin Zhao*, Peng Wang
 
 ___________
 
 The code in this toolbox implements the ["Research on Fire Classification and Detection Models Based on Deep Learning"](https://www.sciencedirect.com/science/article/abs/pii/S0034425723004078). Fires pose severe risks, and fires in forests threaten human and animal life and negatively affect their quality of life, in addition to their impact on infrastructure, with limited options for fighting fires due to the intense heat and volatile winds. In this fragile environment, responsible behavior and fire prevention is essential to mitigate these risks.The importance of this project lies in working on continuous monitoring to discover and identify fires, in addition to early detection and reducing the response speed.
 
 ![alt text](./FICNetNoFire.png)
-![alt text](./YOLOModelFire.png)
+
 
 
 ![alt text](./FICNet_Model.jpg)
 
-A high-resolution domain adaptation network utilizing adversarial learning (HighDAN) is devised to tackle this task.
+The FICNet model's network architecture consists of five layers:
+
+  LAYER 1: Input layer, receiving 416x416 images.
+  
+  LAYER 2: Pre-trained layer, Utilizing the pre-trained ResNet50 model, excluding the top fully connected layer, and using average pooling to reduce the dimensionality of feature maps.
+  
+  LAYER 3: Global Average Pooling layer, Performing global average pooling to further reduce the dimensionality of feature maps, allowing them to be input to the fully connected layer.
+  
+  LAYER 4: Fully connected layer, A fully connected layer with softmax activation function, also known as the dense layer, used for the classification task. Here, it is assumed that there are two classes, but the number can be adjusted according to the needs.
+  
+  LAYER 5: Output layer, displaying the final classification results.
 
 Citation
 ---------------------
@@ -23,7 +33,7 @@ Shenzhi Li, Biao Zhang, Peng Wang. Research on Fire Classification and Detection
 
      @article{li2024cross,
      title={Research on Fire Classification and Detection Models Based on Deep Learning},
-     author={Shenzhi Li, Biao Zhang, Peng Wang},
+     author={Shenzhi Li, Biao Zhang, Shuanglin Zhao, Peng Wang},
      journal= International Conferenge on Big Data and Data Mining},
      volume={xxx},
      pages={yyyy},
@@ -34,7 +44,7 @@ System-specific notes
 ---------------------
 Please refer to the file `requirements.txt` for the running environment of this code.
 
-:exclamation: The datasets can be downloaded from the following links:
+The FlameVision dataset can be downloaded from the following links:
 
 Baiduyun: https://pan.baidu.com/s/1zwE-Y_AJYaLOMPkIzgTTug?pwd=qwer 
 
@@ -50,5 +60,9 @@ You should have received a copy of the GNU General Public License along with thi
 Contact Information:
 --------------------
 
-Shenzhi Li: d24092110646@cityu.edu.mo<br>
-Shenzhi Li is with the City University of Macau, Macau, China.
+Shenzhi Li: lishenzhi@sues.edu.cn<br>
+Shenzhi Li is with the City University of Macau, Macau, China and Hebei Key Laboratory of Resource and Environmental Disaster Mechanism and Risk Monitoring
+ Sanhe, China.
+
+Shuanglin Zhao*: zhaoshuanglin2024@163.com<br>
+Shuanglin Zhao is with the Hunan Institute of Geological Disaster Investigation and Monitoring, Changsha, China.
